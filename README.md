@@ -1,120 +1,114 @@
-# Hi 👋, I'm Ankur Pal
+<h1 align="center">Hi 👋, I'm Ankur Pal</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | Java & Spring Boot | Next.js</h3>
 
-### 💻 Full Stack Developer | B.Tech IT Student | GATE CSE Aspirant
-
-I enjoy building scalable web applications and continuously improving my software engineering skills. My current focus is full-stack development with Spring Boot and Next.js while preparing for GATE CSE.
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech Information Technology
-- 💻 Full Stack Developer
-- 🌱 Currently building **Tensai** (Professional Social Network)
-- 📚 Preparing for **GATE CSE**
-- ⚡ Interested in Backend Development, System Design & Open Source
+<p align="center">
+  Passionate about building scalable web applications and continuously learning modern technologies.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Connect with Me
+
+<p align="left">
+<a href="https://github.com/AnkurpalDevRoronoa" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ankur-pal-9977832b9/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/roronoa_ankurpal/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,mongodb"/>
+</p>
 
 ### Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite"/>
+</p>
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🌟 Featured Projects
 
-## 🌐 Tensai (In Progress)
+### 🍽️ Pinch of Taste
 
-A modern professional social networking platform inspired by LinkedIn + Discord + Instagram.
+🔗 Live Demo  
+https://pinchof-taste.vercel.app/
 
-### Features
+### 💼 Tensai – Professional Networking Platform
 
-- Authentication & JWT
-- User Profiles
-- Posts & Activities
-- Follow System
-- Notifications
-- Community System
-- Community Chat
-- Responsive UI
-- Dark Mode
-
-**Tech**
-
-- Next.js
-- Spring Boot
-- MongoDB
-- Tailwind CSS
-- WebSocket
+🔗 GitHub Repository  
+https://github.com/AnkurpalDevRoronoa/Tensai
 
 ---
 
-## 🍽 Pinch of Taste
+## 📊 GitHub Stats
 
-A Full Stack Food Ordering Application.
+<p align="center">
 
-### Features
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnkurpalDevRoronoa&show_icons=true&theme=tokyonight"/>
 
-- Authentication
-- Menu
-- Cart
-- Orders
-- Admin Panel
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurpalDevRoronoa&layout=compact&theme=tokyonight"/>
 
-**Tech**
-
-- React
-- Spring Boot
-- MongoDB
+</p>
 
 ---
 
-# 📈 GitHub Stats
+## 🔥 GitHub Streak
 
-![](https://github-readme-stats.vercel.app/api?username=Roronoanami&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Roronoanami&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=AnkurpalDevRoronoa&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roronoanami&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Roronoanami)
-
-<!-- Add these after creating them -->
-<!-- LinkedIn -->
-<!-- Portfolio -->
-<!-- Email -->
+</p>
 
 ---
 
-> "Code. Learn. Improve. Repeat."
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AnkurpalDevRoronoa&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=AnkurpalDevRoronoa&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+Thanks for visiting my profile ⭐
+</h3>
